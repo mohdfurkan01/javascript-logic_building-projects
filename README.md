@@ -43,4 +43,32 @@ javascript-projects/
 
 ---
 
+### Overview
+
+![alt text](./Images/image.png)
+
+### color Changer 🔥
+
+![alt text](./Images/color-changer.png)
+
+### BMI Generator 🏋️‍♂️
+
+![alt text](./Images/BMI.png)
+
+### Digital Clock ⏰
+
+![alt text](./Images/digitalClock.png)
+
+### Guess the Number 🎯
+
+![alt text](./Images//guessNum.png)
+
+### Keyboard
+
+![alt text](./Images/keyboard.png)
+
+### Unlimited Colors 🎨
+
+![alt text](./Images/unlimitedColor.png)
+
 Simply click on any project you want to explore, and you'll see it presented nicely along with a live version!
